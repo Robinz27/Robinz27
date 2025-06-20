@@ -119,7 +119,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/robinz27/robinz27/output/snake.svg" alt="Snake animation" />
-
-###
