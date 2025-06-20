@@ -102,6 +102,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robinz27/robinz27/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robinz27/robinz27/output/pacman-contribution-graph.svg">
@@ -115,5 +117,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/robinz27/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/robinz27/robinz27/output/snake.svg" alt="Snake animation" />
 
 ###
